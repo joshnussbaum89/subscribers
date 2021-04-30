@@ -1,0 +1,8 @@
+.container {
+  max-width: 650px;
+  width: 100%;
+}
+
+.submit-btn {
+  margin: 1rem 0;
+}
